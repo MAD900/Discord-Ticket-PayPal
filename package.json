@@ -1,0 +1,21 @@
+{
+  "name": "ticket-paypal-system",
+  "version": "1.0.0",
+  "description": "Discord Ticket System with PayPal Integration by MAD Services",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "𝗠𝗔𝗗𝟵𝟬𝟬",
+  "license": "All rights reserved © MAD Services 2025",
+  "dependencies": {
+    "@discordjs/builders": "^1.7.0",
+    "@discordjs/rest": "^2.2.0",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "quick.db": "^9.1.7",
+    "@paypal/checkout-server-sdk": "^1.0.3",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.43"
+  }
+}

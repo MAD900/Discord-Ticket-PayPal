@@ -1,0 +1,20 @@
+/*
+`7MMM.     ,MMF'      db      `7MM"""Yb.   
+  MMMb    dPMM       ;MM:       MM    `Yb. 
+  M YM   ,M MM      ,V^MM.      MM     `Mb 
+  M  Mb  M' MM     ,M  `MM      MM      MM 
+  M  YM.P'  MM     AbmmmqMA     MM     ,MP 
+  M  `YM'   MM    A'     VML    MM    ,dP' 
+.JML. `'  .JMML..AMA.   .AMMA..JMMmmmdP'   
+         ( MAD Services © جميع الحقوق محفوظه لدى )
+*/
+السلام عليكم ورحمة الله وبركاتة ,, 
+
+طريقة التشغيل : 
+١. تأكد من تثبيت Node.js
+٢. عدل ملف config.js
+٣. أنشئ ملف .env من .env.example
+٤. شغل البوت عن طريق start.cmd
+
+في حال واجهتك اي مشكلة حياك الدسكورد :
+https://discord.gg/ZSt4byYbQZ | 𝗠𝗔𝗗𝟵𝟬𝟬
