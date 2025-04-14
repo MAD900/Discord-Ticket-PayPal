@@ -1,6 +1,6 @@
 # Discord Ticket System with PayPal Integration
 
-A powerful Discord bot that manages support tickets with PayPal integration for handling payments. Created by [MAD900](https://github.com/MAD900).
+A powerful Discord bot that manages support tickets with PayPal integration for handling payments. Created by [MADX900](https://github.com/MADX900).
 
 ## Features
 
@@ -64,7 +64,7 @@ Need help? Join our Discord server:
 
 ## Author
 
-Created by [MAD900](https://github.com/MAD900)
+Created by [MAD900](https://github.com/MADX900)
 
 ## Contributing
 
