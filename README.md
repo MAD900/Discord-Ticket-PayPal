@@ -64,7 +64,7 @@ Need help? Join our Discord server:
 
 ## Author
 
-Created by [MAD900](https://github.com/MADX900)
+Created by [MADX900](https://github.com/MADX900)
 
 ## Contributing
 
